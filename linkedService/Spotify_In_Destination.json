@@ -1,0 +1,17 @@
+{
+	"name": "Spotify_In_Destination",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDatabase",
+		"typeProperties": {
+			"server": "project-sql-servernm.database.windows.net",
+			"database": "Cars-Database",
+			"encrypt": "mandatory",
+			"trustServerCertificate": false,
+			"authenticationType": "SQL",
+			"userName": "nmarsh",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEJFOUI5RjNFLTQ0RjUtNENFMC05RUQ3LUM0RDJGQTk3Q0FDQ180M2NmZTgxNC04ZDBiLTQ4MWYtOTQ3ZC05ZWU5ZjJlNWQyOGMiDQp9"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Data_Engineering_Portfolio",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "GitHub",
+		"typeProperties": {
+			"username": "50018049@serc.ac.uk",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEJFOUI5RjNFLTQ0RjUtNENFMC05RUQ3LUM0RDJGQTk3Q0FDQ19jY2Y0ZDg1YS0zODQ2LTRiNzItYTg5ZS0zMzg5NDk5YzM2NGEiDQp9"
+		}
+	}
+}
